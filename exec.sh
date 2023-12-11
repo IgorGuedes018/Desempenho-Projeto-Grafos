@@ -1,0 +1,1 @@
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main X-n280-k17.txt 3 0.37 10 arquivoSaida.txt

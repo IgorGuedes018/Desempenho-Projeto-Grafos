@@ -1,0 +1,22 @@
+## Arquivo_entrada  <<  algoritmo_a_ser_usado  <<  alfa  <<  numero_iteracoes  << arquivo_saida   ##
+
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main A-n34-k5.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main B-n34-k5.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main A-n48-k7.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main B-n50-k8.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main X-n101-k25.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main X-n280-k17.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main Golden_1.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main M-n101-k10.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main M-n151-k12.txt 1 0.37 10 arquivoSaida.txt
+
+g++ -g main.cpp ./src/*.cpp -o ./main && ./main Golden_17.txt 1 0.37 10 arquivoSaida.txt

@@ -26,7 +26,7 @@ void Problema::auxLer(string nomeArquivo)
     
     if (!arquivo.is_open())
     {
-        cerr << "Erro ao abrir o arquivo." << endl;
+        cerr << "Erro ao abrir o arquivo De entrada." << endl;
         return;
     }
 

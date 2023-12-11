@@ -1,0 +1,171 @@
+========================================================== Instancia instancias/A-n34-k5.txt (1) ===============================================================================================
+Rota 1: 1 21 27 5 34 19 3 17 23 1 Capacidade sobrando: 2 Custo da rota: 197 
+Rota 2: 1 6 31 25 28 2 30 16 1 Capacidade sobrando: 3 Custo da rota: 137 
+Rota 3: 1 11 14 8 7 15 9 12 32 1 Capacidade sobrando: 1 Custo da rota: 202 
+Rota 4: 1 22 10 13 4 33 29 1 Capacidade sobrando: 12 Custo da rota: 232 
+Rota 5: 1 24 20 18 26 1 Capacidade sobrando: 22 Custo da rota: 177 
+Custo Total: 946.799011
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 168.799011 que tem porcentagem: 21.696531% 
+
+========================================================== Instancia instancias/A-n48-k7.txt (2) ===============================================================================================
+Rota 1: 1 15 18 19 45 36 24 44 32 33 1 Capacidade sobrando: 1 Custo da rota: 145 
+Rota 2: 1 42 48 17 11 3 30 35 1 Capacidade sobrando: 1 Custo da rota: 219 
+Rota 3: 1 13 6 2 7 23 8 43 1 Capacidade sobrando: 0 Custo da rota: 248 
+Rota 4: 1 41 37 38 20 39 26 1 Capacidade sobrando: 3 Custo da rota: 169 
+Rota 5: 1 46 28 16 9 40 27 4 1 Capacidade sobrando: 0 Custo da rota: 203 
+Rota 6: 1 29 10 25 5 14 31 22 47 12 1 Capacidade sobrando: 3 Custo da rota: 257 
+Rota 7: 1 34 21 1 Capacidade sobrando: 66 Custo da rota: 231 
+Custo Total: 1476.572998
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 403.572998 que tem porcentagem: 37.611649% 
+
+========================================================== Instancia instancias/B-n34-k5.txt (3) ===============================================================================================
+Rota 1: 1 6 7 26 18 32 16 29 14 20 1 Capacidade sobrando: 0 Custo da rota: 148 
+Rota 2: 1 12 31 3 8 22 5 21 27 1 Capacidade sobrando: 0 Custo da rota: 209 
+Rota 3: 1 2 19 17 10 28 11 1 Capacidade sobrando: 0 Custo da rota: 185 
+Rota 4: 1 13 9 34 33 4 1 Capacidade sobrando: 1 Custo da rota: 168 
+Rota 5: 1 30 25 15 24 23 1 Capacidade sobrando: 42 Custo da rota: 189 
+Custo Total: 901.619934
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 113.619934 que tem porcentagem: 14.418773% 
+
+========================================================== Instancia instancias/B-n50-k8.txt (4) ===============================================================================================
+Rota 1: 1 3 35 49 41 45 7 32 31 21 28 13 1 Capacidade sobrando: 0 Custo da rota: 106 
+Rota 2: 1 8 38 10 34 37 44 12 50 25 1 Capacidade sobrando: 0 Custo da rota: 121 
+Rota 3: 1 15 17 26 5 27 48 1 Capacidade sobrando: 0 Custo da rota: 196 
+Rota 4: 1 4 14 23 39 47 24 11 1 Capacidade sobrando: 4 Custo da rota: 119 
+Rota 5: 1 36 42 46 40 2 18 1 Capacidade sobrando: 1 Custo da rota: 209 
+Rota 6: 1 16 9 43 22 33 1 Capacidade sobrando: 3 Custo da rota: 275 
+Rota 7: 1 19 6 29 1 Capacidade sobrando: 7 Custo da rota: 279 
+Rota 8: 1 30 20 1 Capacidade sobrando: 50 Custo da rota: 228 
+Custo Total: 1537.331909
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 225.331909 que tem porcentagem: 17.174688% 
+
+========================================================== Instancia instancias/Golden_1.txt (5) ===============================================================================================
+Rota 1: 1 3 2 41 40 39 38 37 36 35 34 33 32 31 30 29 28 27 26 25 24 23 22 21 20 19 18 17 14 13 1 Capacidade sobrando: 0 Custo da rota: 201 
+Rota 2: 1 11 12 10 9 8 7 6 5 4 44 43 42 81 80 79 78 77 76 75 74 73 72 71 70 69 68 66 1 Capacidade sobrando: 0 Custo da rota: 331 
+Rota 3: 1 15 16 56 57 58 59 60 61 62 63 64 65 67 107 106 105 104 103 102 101 100 99 98 97 96 94 93 1 Capacidade sobrando: 0 Custo da rota: 485 
+Rota 4: 1 46 47 48 49 50 51 52 53 54 55 95 135 136 137 138 139 140 141 142 143 144 145 146 147 148 149 150 1 Capacidade sobrando: 0 Custo da rota: 607 
+Rota 5: 1 45 85 84 83 82 121 120 119 118 117 116 115 114 113 112 111 110 109 108 151 152 153 154 155 156 157 158 198 197 1 Capacidade sobrando: 0 Custo da rota: 722 
+Rota 6: 1 87 86 88 89 90 91 92 132 131 130 129 128 127 126 125 124 123 122 161 160 159 199 200 201 162 202 241 1 Capacidade sobrando: 0 Custo da rota: 802 
+Rota 7: 1 133 134 174 175 176 177 178 179 180 181 182 183 184 185 186 187 188 189 190 191 192 193 194 195 196 236 237 238 234 1 Capacidade sobrando: 0 Custo da rota: 1064 
+Rota 8: 1 163 164 165 166 167 168 169 170 171 172 173 213 212 211 210 209 208 207 206 205 204 203 240 239 235 1 Capacidade sobrando: 0 Custo da rota: 1101 
+Rota 9: 1 217 216 215 214 218 219 220 221 222 223 224 225 226 227 228 229 230 231 232 233 1 Capacidade sobrando: 150 Custo da rota: 979 
+Custo Total: 6296.217773
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 673.217773 que tem porcentagem: 11.972573% 
+
+========================================================== Instancia instancias/Golden_17.txt (6) ===============================================================================================
+Rota 1: 1 22 3 15 24 75 63 82 27 28 87 142 147 202 1 Capacidade sobrando: 0 Custo da rota: 27 
+Rota 2: 1 23 4 30 35 90 64 83 32 33 92 143 152 203 1 Capacidade sobrando: 0 Custo da rota: 27 
+Rota 3: 1 46 6 39 48 99 66 106 51 52 111 166 171 226 1 Capacidade sobrando: 0 Custo da rota: 27 
+Rota 4: 1 47 7 54 59 114 67 107 56 57 116 167 176 227 1 Capacidade sobrando: 0 Custo da rota: 27 
+Rota 5: 1 14 2 55 16 115 62 74 19 20 79 134 139 194 1 Capacidade sobrando: 0 Custo da rota: 27 
+Rota 6: 1 31 5 38 43 98 65 91 40 41 100 151 160 211 1 Capacidade sobrando: 0 Custo da rota: 27 
+Rota 7: 1 25 84 135 123 195 144 85 26 21 80 81 140 199 1 Capacidade sobrando: 0 Custo da rota: 37 
+Rota 8: 1 36 95 150 124 210 155 96 37 42 101 102 161 220 1 Capacidade sobrando: 0 Custo da rota: 37 
+Rota 9: 1 49 108 159 126 219 168 109 50 45 104 163 218 158 103 1 Capacidade sobrando: 0 Custo da rota: 31 
+Rota 10: 1 60 119 174 127 234 179 120 61 18 77 136 235 175 76 1 Capacidade sobrando: 0 Custo da rota: 31 
+Rota 11: 1 17 13 78 137 196 182 122 86 146 1 Capacidade sobrando: 0 Custo da rota: 43 
+Rota 12: 1 44 11 105 164 223 185 125 97 157 1 Capacidade sobrando: 0 Custo da rota: 43 
+Rota 13: 1 29 88 89 9 94 153 212 213 154 69 149 1 Capacidade sobrando: 0 Custo da rota: 39 
+Rota 14: 1 34 93 184 215 156 70 162 221 222 217 214 1 Capacidade sobrando: 0 Custo da rota: 62 
+Rota 15: 1 53 112 113 12 118 177 236 237 178 72 173 1 Capacidade sobrando: 0 Custo da rota: 39 
+Rota 16: 1 58 117 187 239 180 121 73 138 197 198 241 1 Capacidade sobrando: 0 Custo da rota: 48 
+Rota 17: 1 8 68 141 200 201 128 206 205 204 1 Capacidade sobrando: 0 Custo da rota: 41 
+Rota 18: 1 10 216 130 190 224 165 170 229 1 Capacidade sobrando: 0 Custo da rota: 58 
+Rota 19: 1 110 169 228 186 231 172 232 233 132 238 181 1 Capacidade sobrando: 0 Custo da rota: 59 
+Rota 20: 1 183 207 148 208 209 129 189 145 1 Capacidade sobrando: 0 Custo da rota: 54 
+Rota 21: 1 71 131 230 225 191 192 240 1 Capacidade sobrando: 0 Custo da rota: 72 
+Rota 22: 1 133 193 188 1 Capacidade sobrando: 80 Custo da rota: 58 
+Custo Total: 925.103882
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 218.103882 que tem porcentagem: 30.849205% 
+
+========================================================== Instancia instancias/M-n101-k10.txt (7) ===============================================================================================
+Rota 1: 1 21 22 23 24 27 29 28 26 25 30 31 35 37 1 Capacidade sobrando: 0 Custo da rota: 92 
+Rota 2: 1 68 66 64 63 67 70 69 65 62 73 75 1 Capacidade sobrando: 0 Custo da rota: 63 
+Rota 3: 1 6 4 5 7 9 10 12 11 8 76 2 3 99 1 Capacidade sobrando: 0 Custo da rota: 90 
+Rota 4: 1 44 43 42 41 45 46 47 49 51 52 53 50 48 32 36 60 1 Capacidade sobrando: 0 Custo da rota: 147 
+Rota 5: 1 91 90 89 86 85 84 83 87 88 92 97 100 95 1 Capacidade sobrando: 0 Custo da rota: 132 
+Rota 6: 1 14 18 19 20 16 17 15 13 56 1 Capacidade sobrando: 0 Custo da rota: 164 
+Rota 7: 1 33 34 38 39 40 58 54 1 Capacidade sobrando: 0 Custo da rota: 152 
+Rota 8: 1 96 98 94 93 101 82 79 77 1 Capacidade sobrando: 0 Custo da rota: 177 
+Rota 9: 1 55 57 59 61 81 80 78 74 71 1 Capacidade sobrando: 10 Custo da rota: 176 
+Rota 10: 1 72 1 Capacidade sobrando: 180 Custo da rota: 114 
+Custo Total: 1311.499878
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 491.499878 que tem porcentagem: 59.939010% 
+
+========================================================== Instancia instancias/M-n151-k12.txt (8) ===============================================================================================
+Rota 1: 1 54 106 27 150 110 13 139 29 112 133 70 2 102 71 123 56 1 Capacidade sobrando: 0 Custo da rota: 135 
+Rota 2: 1 28 147 53 128 32 89 149 63 11 109 91 127 64 33 47 1 Capacidade sobrando: 0 Custo da rota: 137 
+Rota 3: 1 113 90 148 7 95 96 118 98 93 60 100 105 97 61 18 92 1 Capacidade sobrando: 1 Custo da rota: 98 
+Rota 4: 1 59 41 22 74 73 75 134 23 76 57 140 40 26 25 1 Capacidade sobrando: 1 Custo da rota: 106 
+Rota 5: 1 14 138 88 145 58 116 3 146 42 16 44 143 43 101 38 99 62 8 1 Capacidade sobrando: 1 Custo da rota: 146 
+Rota 6: 1 77 117 78 4 80 130 79 35 121 10 104 72 137 36 52 1 Capacidade sobrando: 0 Custo da rota: 113 
+Rota 7: 1 19 84 119 6 85 126 46 9 115 83 125 1 Capacidade sobrando: 3 Custo da rota: 99 
+Rota 8: 1 51 103 34 82 136 66 67 129 21 31 132 1 Capacidade sobrando: 3 Custo da rota: 128 
+Rota 9: 1 107 49 124 20 108 12 65 50 144 37 48 1 Capacidade sobrando: 3 Custo da rota: 120 
+Rota 10: 1 94 86 17 142 45 120 15 141 39 111 81 151 1 Capacidade sobrando: 0 Custo da rota: 139 
+Rota 11: 1 69 122 30 135 55 131 5 24 68 1 Capacidade sobrando: 11 Custo da rota: 125 
+Rota 12: 1 114 87 1 Capacidade sobrando: 142 Custo da rota: 74 
+Custo Total: 1426.229980
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 373.229980 que tem porcentagem: 35.444443% 
+
+========================================================== Instancia instancias/X-n101-k25.txt (9) ===============================================================================================
+Rota 1: 1 33 25 47 36 16 96 74 65 8 1 Capacidade sobrando: 0 Custo da rota: 2770 
+Rota 2: 1 51 80 31 86 88 1 Capacidade sobrando: 1 Custo da rota: 1577 
+Rota 3: 1 6 13 59 30 1 Capacidade sobrando: 0 Custo da rota: 1665 
+Rota 4: 1 22 101 62 98 35 66 1 Capacidade sobrando: 1 Custo da rota: 1533 
+Rota 5: 1 24 20 12 82 72 90 1 Capacidade sobrando: 3 Custo da rota: 1686 
+Rota 6: 1 81 18 95 1 Capacidade sobrando: 1 Custo da rota: 684 
+Rota 7: 1 9 57 97 27 1 Capacidade sobrando: 0 Custo da rota: 1075 
+Rota 8: 1 32 54 58 77 1 Capacidade sobrando: 0 Custo da rota: 2309 
+Rota 9: 1 76 94 34 48 1 Capacidade sobrando: 4 Custo da rota: 1933 
+Rota 10: 1 45 41 4 89 15 1 Capacidade sobrando: 4 Custo da rota: 986 
+Rota 11: 1 23 42 21 73 1 Capacidade sobrando: 2 Custo da rota: 1644 
+Rota 12: 1 19 5 40 70 1 Capacidade sobrando: 0 Custo da rota: 1624 
+Rota 13: 1 78 68 29 1 Capacidade sobrando: 10 Custo da rota: 1005 
+Rota 14: 1 60 61 83 1 Capacidade sobrando: 1 Custo da rota: 987 
+Rota 15: 1 28 92 63 1 Capacidade sobrando: 6 Custo da rota: 1354 
+Rota 16: 1 64 26 43 1 Capacidade sobrando: 12 Custo da rota: 1091 
+Rota 17: 1 11 79 7 44 1 Capacidade sobrando: 0 Custo da rota: 1651 
+Rota 18: 1 39 49 38 1 Capacidade sobrando: 11 Custo da rota: 1584 
+Rota 19: 1 53 84 46 1 Capacidade sobrando: 9 Custo da rota: 2365 
+Rota 20: 1 67 85 91 69 1 Capacidade sobrando: 10 Custo da rota: 1204 
+Rota 21: 1 2 87 55 1 Capacidade sobrando: 28 Custo da rota: 1282 
+Rota 22: 1 52 100 14 1 Capacidade sobrando: 2 Custo da rota: 2332 
+Rota 23: 1 93 10 56 1 Capacidade sobrando: 4 Custo da rota: 1374 
+Rota 24: 1 99 37 50 1 Capacidade sobrando: 5 Custo da rota: 2229 
+Rota 25: 1 75 17 1 Capacidade sobrando: 36 Custo da rota: 1361 
+Rota 26: 1 71 3 1 Capacidade sobrando: 59 Custo da rota: 2202 
+Custo Total: 41520.046875
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 13929.046875 que tem porcentagem: 50.484023% 
+
+========================================================== Instancia instancias/X-n280-k17.txt (10) ===============================================================================================
+Rota 1: 1 148 32 195 20 137 55 160 157 145 98 159 241 104 164 62 190 277 211 217 243 95 127 268 75 99 45 138 1 Capacidade sobrando: 0 Custo da rota: 2247 
+Rota 2: 1 264 156 201 129 259 70 134 152 84 229 200 203 181 263 149 61 52 250 154 109 224 266 215 198 176 194 199 161 183 67 97 133 1 Capacidade sobrando: 0 Custo da rota: 2378 
+Rota 3: 1 16 265 90 22 69 179 237 106 221 131 27 230 193 260 1 Capacidade sobrando: 0 Custo da rota: 2164 
+Rota 4: 1 21 216 255 219 11 231 54 197 177 81 93 171 122 50 1 Capacidade sobrando: 0 Custo da rota: 2312 
+Rota 5: 1 244 233 207 30 18 227 9 150 246 202 1 Capacidade sobrando: 0 Custo da rota: 1802 
+Rota 6: 1 155 210 174 232 162 12 213 124 82 205 125 208 108 1 Capacidade sobrando: 0 Custo da rota: 1988 
+Rota 7: 1 214 91 13 85 253 114 87 26 77 103 79 116 144 245 182 66 196 169 228 170 222 1 Capacidade sobrando: 0 Custo da rota: 2471 
+Rota 8: 1 15 242 251 204 136 31 165 46 258 235 80 120 225 73 51 34 59 60 280 236 65 220 41 279 53 1 Capacidade sobrando: 0 Custo da rota: 2748 
+Rota 9: 1 33 123 113 186 17 256 110 163 132 276 102 261 158 269 166 153 36 76 128 184 275 118 1 Capacidade sobrando: 0 Custo da rota: 2826 
+Rota 10: 1 5 188 175 101 218 74 119 226 56 117 278 257 68 147 189 43 1 Capacidade sobrando: 0 Custo da rota: 2652 
+Rota 11: 1 267 274 112 44 240 139 78 167 206 71 10 234 40 248 42 57 121 38 262 35 1 Capacidade sobrando: 0 Custo da rota: 2680 
+Rota 12: 1 39 115 64 249 23 29 58 254 96 88 239 63 209 48 247 191 83 185 252 140 238 223 49 180 1 Capacidade sobrando: 0 Custo da rota: 3207 
+Rota 13: 1 126 100 187 142 37 168 7 94 272 270 130 25 192 1 Capacidade sobrando: 0 Custo da rota: 3060 
+Rota 14: 1 47 212 92 111 173 86 28 273 151 19 24 72 1 Capacidade sobrando: 0 Custo da rota: 3120 
+Rota 15: 1 271 135 105 146 178 3 107 172 8 141 1 Capacidade sobrando: 4 Custo da rota: 2996 
+Rota 16: 1 6 4 143 89 1 Capacidade sobrando: 11 Custo da rota: 3242 
+Rota 17: 1 14 2 1 Capacidade sobrando: 16 Custo da rota: 2585 
+Custo Total: 44485.843750
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 10982.843750 que tem porcentagem: 32.781673% 
+

@@ -66,8 +66,8 @@ int main(int argc, char *argv[])
     int algoritmo = stoi(argv[2]);
     float alfa = stof(argv[3]);
     int numInteracoes = stoi(argv[4]);
-    // string saida = argv[5];
-    string saida = "AlgoritmoGulosoReativoDesempenho.txt";
+    string saida = argv[5];
+    // string saida = "AlgoritmoGulosoReativoDesempenho.txt";
     string result;
 
     // ARQUIVO SAIDA
@@ -89,13 +89,11 @@ int main(int argc, char *argv[])
 
     auto start_time = chrono::high_resolution_clock::now();
 
-    // ALGORITMO:  
+    // ALGORITMO:
     vector<float> alfas = {0.1, 0.7, 0.5, 0.8, 0.3};
     rotas = s->gulosoReativo(alfas, numInteracoes, static_cast<int>(numInteracoes * 0.10));
 
-
     auto end_time = chrono::high_resolution_clock::now();
-
 
     // calculo
     auto duration = chrono::duration_cast<chrono::milliseconds>(end_time - start_time).count();
@@ -113,7 +111,7 @@ int main(int argc, char *argv[])
     }
     else if (algoritmo == 3 && numInteracoes != 0)
     {
-        
+
     }
     else
     {
@@ -122,7 +120,7 @@ int main(int argc, char *argv[])
     }
     */
 
-    result = "========================================================== " + arquivo_entrada + " (" + to_string(instance) + ")" + " iteracoes: " + to_string(numInteracoes) + " ===============================================================================================\n";
+    result = "========================================================== " + arquivo_entrada + " (" + to_string(instance) + ")" + " Alfa: " + to_string(alfa) + " ===============================================================================================\n";
     Valida *v = new Valida(rotas, p);
 
     /*

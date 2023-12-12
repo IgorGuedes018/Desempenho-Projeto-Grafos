@@ -91,8 +91,7 @@ int main(int argc, char *argv[])
     auto start_time = chrono::high_resolution_clock::now();
 
     // ALGORITMO:
-    vector<float> alfas = {0.1, 0.7, 0.5, 0.8, 0.3};
-    rotas = s->gulosoReativo(alfas, numInteracoes, static_cast<int>(numInteracoes * 0.10));
+    rotas = s->gulosoAdptativo(alfa, numInteracoes);
 
     auto end_time = chrono::high_resolution_clock::now();
 
@@ -121,7 +120,7 @@ int main(int argc, char *argv[])
     }
     */
 
-    result = "========================================================== " + arquivo_entrada + " (" + to_string(instance) + ")" + " Alfa: " + to_string(alfa) + " ===============================================================================================\n";
+    result = "========================================================== " + arquivo_entrada + " (" + to_string(instance) + ")" + " Instancias : " + to_string(numInteracoes) + " ===============================================================================================\n";
     Valida *v = new Valida(rotas, p);
 
     /*
@@ -150,7 +149,7 @@ int main(int argc, char *argv[])
     // porcentagem diferenca
     double porcentagemAcimaOtimo = ((s->getCustoTotal() - p->getSolucaoOtima()) / p->getSolucaoOtima()) * 100;
     result += "Valor acima da Solucao Otima: " + to_string(s->getCustoTotal() - p->getSolucaoOtima()) + " que tem porcentagem: " + to_string(porcentagemAcimaOtimo) + "% \n";
-    result += "Tempo de duracao do Algoritmo Guloso Reativo: " + to_string(durationInSeconds) + " milissegundos \n";
+    result += "Tempo de duracao do Algoritmo Guloso Reativo: " + to_string(durationInSeconds) + " Segundos \n";
 
     // validacao
     if (!v->validar())

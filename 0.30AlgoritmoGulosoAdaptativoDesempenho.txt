@@ -1,0 +1,360 @@
+========================================================== instancias/A-n34-k5.txt (1) Alfa: 0.300000 ===============================================================================================
+Custo Total: 1039.345825
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 261.345825 que tem porcentagem: 33.592010% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.107476 Segundos 
+
+========================================================== instancias/A-n48-k7.txt (2) Alfa: 0.300000 ===============================================================================================
+Custo Total: 1599.617432
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 526.617432 que tem porcentagem: 49.078976% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.224884 Segundos 
+
+========================================================== instancias/B-n34-k5.txt (3) Alfa: 0.300000 ===============================================================================================
+Custo Total: 974.902771
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 186.902771 que tem porcentagem: 23.718626% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.118054 Segundos 
+
+========================================================== instancias/B-n50-k8.txt (4) Alfa: 0.300000 ===============================================================================================
+Custo Total: 1692.331299
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 380.331299 que tem porcentagem: 28.988665% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.244621 Segundos 
+
+========================================================== instancias/Golden_1.txt (5) Alfa: 0.300000 ===============================================================================================
+Custo Total: 18242.656250
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 12619.656250 que tem porcentagem: 224.429245% 
+Tempo de duracao do Algoritmo Guloso Reativo: 9.702986 Segundos 
+
+========================================================== instancias/Golden_17.txt (6) Alfa: 0.300000 ===============================================================================================
+Custo Total: 1792.910767
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 1085.910767 que tem porcentagem: 153.594177% 
+Tempo de duracao do Algoritmo Guloso Reativo: 9.586045 Segundos 
+
+========================================================== instancias/M-n101-k10.txt (7) Alfa: 0.300000 ===============================================================================================
+Custo Total: 2083.090088
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 1263.090088 que tem porcentagem: 154.035370% 
+Tempo de duracao do Algoritmo Guloso Reativo: 1.163662 Segundos 
+
+========================================================== instancias/M-n151-k12.txt (8) Alfa: 0.300000 ===============================================================================================
+Custo Total: 2709.503906
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 1656.503906 que tem porcentagem: 157.312805% 
+Tempo de duracao do Algoritmo Guloso Reativo: 2.829180 Segundos 
+
+========================================================== instancias/X-n101-k25.txt (9) Alfa: 0.300000 ===============================================================================================
+Custo Total: 42488.503906
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 14897.503906 que tem porcentagem: 53.994072% 
+Tempo de duracao do Algoritmo Guloso Reativo: 1.091155 Segundos 
+
+========================================================== instancias/X-n280-k17.txt (10) Alfa: 0.300000 ===============================================================================================
+Custo Total: 85370.093750
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 51867.093750 que tem porcentagem: 154.813278% 
+Tempo de duracao do Algoritmo Guloso Reativo: 12.690006 Segundos 
+
+========================================================== instancias/A-n34-k5.txt (1) Instancias : 1000 ===============================================================================================
+Custo Total: 1039.345825
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 261.345825 que tem porcentagem: 33.592010% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.221772 Segundos 
+
+========================================================== instancias/A-n48-k7.txt (2) Instancias : 1000 ===============================================================================================
+Custo Total: 1575.000244
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 502.000244 que tem porcentagem: 46.784737% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.446128 Segundos 
+
+========================================================== instancias/B-n34-k5.txt (3) Instancias : 1000 ===============================================================================================
+Custo Total: 955.143738
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 167.143738 que tem porcentagem: 21.211134% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.216103 Segundos 
+
+========================================================== instancias/B-n50-k8.txt (4) Instancias : 1000 ===============================================================================================
+Custo Total: 1690.794800
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 378.794800 que tem porcentagem: 28.871553% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.471983 Segundos 
+
+========================================================== instancias/Golden_1.txt (5) Instancias : 1000 ===============================================================================================
+Custo Total: 18242.656250
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 12619.656250 que tem porcentagem: 224.429245% 
+Tempo de duracao do Algoritmo Guloso Reativo: 19.317194 Segundos 
+
+========================================================== instancias/Golden_17.txt (6) Instancias : 1000 ===============================================================================================
+Custo Total: 1792.910767
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 1085.910767 que tem porcentagem: 153.594177% 
+Tempo de duracao do Algoritmo Guloso Reativo: 19.335793 Segundos 
+
+========================================================== instancias/M-n101-k10.txt (7) Instancias : 1000 ===============================================================================================
+Custo Total: 2083.090088
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 1263.090088 que tem porcentagem: 154.035370% 
+Tempo de duracao do Algoritmo Guloso Reativo: 2.273259 Segundos 
+
+========================================================== instancias/M-n151-k12.txt (8) Instancias : 1000 ===============================================================================================
+Custo Total: 2708.056396
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 1655.056396 que tem porcentagem: 157.175354% 
+Tempo de duracao do Algoritmo Guloso Reativo: 5.575671 Segundos 
+
+========================================================== instancias/X-n101-k25.txt (9) Instancias : 1000 ===============================================================================================
+Custo Total: 40591.199219
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 13000.199219 que tem porcentagem: 47.117535% 
+Tempo de duracao do Algoritmo Guloso Reativo: 2.185376 Segundos 
+
+========================================================== instancias/X-n280-k17.txt (10) Instancias : 1000 ===============================================================================================
+Custo Total: 84287.609375
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 50784.609375 que tem porcentagem: 151.582275% 
+Tempo de duracao do Algoritmo Guloso Reativo: 25.622245 Segundos 
+
+========================================================== instancias/A-n34-k5.txt (1) Instancias : 1500 ===============================================================================================
+Custo Total: 1039.345825
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 261.345825 que tem porcentagem: 33.592010% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.338714 Segundos 
+
+========================================================== instancias/A-n48-k7.txt (2) Instancias : 1500 ===============================================================================================
+Custo Total: 1575.000244
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 502.000244 que tem porcentagem: 46.784737% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.646807 Segundos 
+
+========================================================== instancias/B-n34-k5.txt (3) Instancias : 1500 ===============================================================================================
+Custo Total: 949.872375
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 161.872375 que tem porcentagem: 20.542179% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.297193 Segundos 
+
+========================================================== instancias/B-n50-k8.txt (4) Instancias : 1500 ===============================================================================================
+Custo Total: 1663.326416
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 351.326416 que tem porcentagem: 26.777929% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.704857 Segundos 
+
+========================================================== instancias/Golden_1.txt (5) Instancias : 1500 ===============================================================================================
+Custo Total: 18242.656250
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 12619.656250 que tem porcentagem: 224.429245% 
+Tempo de duracao do Algoritmo Guloso Reativo: 28.796610 Segundos 
+
+========================================================== instancias/Golden_17.txt (6) Instancias : 1500 ===============================================================================================
+Custo Total: 1792.910767
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 1085.910767 que tem porcentagem: 153.594177% 
+Tempo de duracao do Algoritmo Guloso Reativo: 28.827347 Segundos 
+
+========================================================== instancias/M-n101-k10.txt (7) Instancias : 1500 ===============================================================================================
+Custo Total: 2083.090088
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 1263.090088 que tem porcentagem: 154.035370% 
+Tempo de duracao do Algoritmo Guloso Reativo: 3.425172 Segundos 
+
+========================================================== instancias/M-n151-k12.txt (8) Instancias : 1500 ===============================================================================================
+Custo Total: 2708.056396
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 1655.056396 que tem porcentagem: 157.175354% 
+Tempo de duracao do Algoritmo Guloso Reativo: 8.358862 Segundos 
+
+========================================================== instancias/X-n101-k25.txt (9) Instancias : 1500 ===============================================================================================
+Custo Total: 40591.199219
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 13000.199219 que tem porcentagem: 47.117535% 
+Tempo de duracao do Algoritmo Guloso Reativo: 3.246856 Segundos 
+
+========================================================== instancias/X-n280-k17.txt (10) Instancias : 1500 ===============================================================================================
+Custo Total: 84287.609375
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 50784.609375 que tem porcentagem: 151.582275% 
+Tempo de duracao do Algoritmo Guloso Reativo: 38.203075 Segundos 
+
+========================================================== instancias/A-n34-k5.txt (1) Instancias : 2000 ===============================================================================================
+Custo Total: 1039.345825
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 261.345825 que tem porcentagem: 33.592010% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.428431 Segundos 
+
+========================================================== instancias/A-n48-k7.txt (2) Instancias : 2000 ===============================================================================================
+Custo Total: 1575.000244
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 502.000244 que tem porcentagem: 46.784737% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.832003 Segundos 
+
+========================================================== instancias/B-n34-k5.txt (3) Instancias : 2000 ===============================================================================================
+Custo Total: 949.872375
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 161.872375 que tem porcentagem: 20.542179% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.414587 Segundos 
+
+========================================================== instancias/B-n50-k8.txt (4) Instancias : 2000 ===============================================================================================
+Custo Total: 1663.326416
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 351.326416 que tem porcentagem: 26.777929% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.925065 Segundos 
+
+========================================================== instancias/Golden_1.txt (5) Instancias : 2000 ===============================================================================================
+Custo Total: 18242.656250
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 12619.656250 que tem porcentagem: 224.429245% 
+Tempo de duracao do Algoritmo Guloso Reativo: 38.469765 Segundos 
+
+========================================================== instancias/Golden_17.txt (6) Instancias : 2000 ===============================================================================================
+Custo Total: 1792.910767
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 1085.910767 que tem porcentagem: 153.594177% 
+Tempo de duracao do Algoritmo Guloso Reativo: 38.533343 Segundos 
+
+========================================================== instancias/M-n101-k10.txt (7) Instancias : 2000 ===============================================================================================
+Custo Total: 2080.428223
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 1260.428223 que tem porcentagem: 153.710754% 
+Tempo de duracao do Algoritmo Guloso Reativo: 4.527006 Segundos 
+
+========================================================== instancias/M-n151-k12.txt (8) Instancias : 2000 ===============================================================================================
+Custo Total: 2708.056396
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 1655.056396 que tem porcentagem: 157.175354% 
+Tempo de duracao do Algoritmo Guloso Reativo: 11.163061 Segundos 
+
+========================================================== instancias/X-n101-k25.txt (9) Instancias : 2000 ===============================================================================================
+Custo Total: 40533.890625
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 12942.890625 que tem porcentagem: 46.909828% 
+Tempo de duracao do Algoritmo Guloso Reativo: 4.351165 Segundos 
+
+========================================================== instancias/X-n280-k17.txt (10) Instancias : 2000 ===============================================================================================
+Custo Total: 83988.484375
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 50485.484375 que tem porcentagem: 150.689453% 
+Tempo de duracao do Algoritmo Guloso Reativo: 51.031954 Segundos 
+
+========================================================== instancias/A-n34-k5.txt (1) Instancias : 2500 ===============================================================================================
+Custo Total: 1039.345825
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 261.345825 que tem porcentagem: 33.592010% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.536325 Segundos 
+
+========================================================== instancias/A-n48-k7.txt (2) Instancias : 2500 ===============================================================================================
+Custo Total: 1575.000244
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 502.000244 que tem porcentagem: 46.784737% 
+Tempo de duracao do Algoritmo Guloso Reativo: 1.041046 Segundos 
+
+========================================================== instancias/B-n34-k5.txt (3) Instancias : 2500 ===============================================================================================
+Custo Total: 949.872375
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 161.872375 que tem porcentagem: 20.542179% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.511564 Segundos 
+
+========================================================== instancias/B-n50-k8.txt (4) Instancias : 2500 ===============================================================================================
+Custo Total: 1663.326416
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 351.326416 que tem porcentagem: 26.777929% 
+Tempo de duracao do Algoritmo Guloso Reativo: 1.152223 Segundos 
+
+========================================================== instancias/Golden_1.txt (5) Instancias : 2500 ===============================================================================================
+Custo Total: 18242.656250
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 12619.656250 que tem porcentagem: 224.429245% 
+Tempo de duracao do Algoritmo Guloso Reativo: 48.168007 Segundos 
+
+========================================================== instancias/Golden_17.txt (6) Instancias : 2500 ===============================================================================================
+Custo Total: 1792.910767
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 1085.910767 que tem porcentagem: 153.594177% 
+Tempo de duracao do Algoritmo Guloso Reativo: 48.277494 Segundos 
+
+========================================================== instancias/M-n101-k10.txt (7) Instancias : 2500 ===============================================================================================
+Custo Total: 2065.078613
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 1245.078613 que tem porcentagem: 151.838852% 
+Tempo de duracao do Algoritmo Guloso Reativo: 5.694109 Segundos 
+
+========================================================== instancias/M-n151-k12.txt (8) Instancias : 2500 ===============================================================================================
+Custo Total: 2708.056396
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 1655.056396 que tem porcentagem: 157.175354% 
+Tempo de duracao do Algoritmo Guloso Reativo: 13.961487 Segundos 
+
+========================================================== instancias/X-n101-k25.txt (9) Instancias : 2500 ===============================================================================================
+Custo Total: 40533.890625
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 12942.890625 que tem porcentagem: 46.909828% 
+Tempo de duracao do Algoritmo Guloso Reativo: 5.422620 Segundos 
+
+========================================================== instancias/X-n280-k17.txt (10) Instancias : 2500 ===============================================================================================
+Custo Total: 83988.484375
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 50485.484375 que tem porcentagem: 150.689453% 
+Tempo de duracao do Algoritmo Guloso Reativo: 63.427429 Segundos 
+
+========================================================== instancias/A-n34-k5.txt (1) Instancias : 3000 ===============================================================================================
+Custo Total: 1039.345825
+Solucao Otimo: 778
+Valor acima da Solucao Otima: 261.345825 que tem porcentagem: 33.592010% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.627839 Segundos 
+
+========================================================== instancias/A-n48-k7.txt (2) Instancias : 3000 ===============================================================================================
+Custo Total: 1575.000244
+Solucao Otimo: 1073
+Valor acima da Solucao Otima: 502.000244 que tem porcentagem: 46.784737% 
+Tempo de duracao do Algoritmo Guloso Reativo: 1.240926 Segundos 
+
+========================================================== instancias/B-n34-k5.txt (3) Instancias : 3000 ===============================================================================================
+Custo Total: 949.872375
+Solucao Otimo: 788
+Valor acima da Solucao Otima: 161.872375 que tem porcentagem: 20.542179% 
+Tempo de duracao do Algoritmo Guloso Reativo: 0.593332 Segundos 
+
+========================================================== instancias/B-n50-k8.txt (4) Instancias : 3000 ===============================================================================================
+Custo Total: 1663.326416
+Solucao Otimo: 1312
+Valor acima da Solucao Otima: 351.326416 que tem porcentagem: 26.777929% 
+Tempo de duracao do Algoritmo Guloso Reativo: 1.384936 Segundos 
+
+========================================================== instancias/Golden_1.txt (5) Instancias : 3000 ===============================================================================================
+Custo Total: 18146.113281
+Solucao Otimo: 5623
+Valor acima da Solucao Otima: 12523.113281 que tem porcentagem: 222.712296% 
+Tempo de duracao do Algoritmo Guloso Reativo: 57.671938 Segundos 
+
+========================================================== instancias/Golden_17.txt (6) Instancias : 3000 ===============================================================================================
+Custo Total: 1792.910767
+Solucao Otimo: 707
+Valor acima da Solucao Otima: 1085.910767 que tem porcentagem: 153.594177% 
+Tempo de duracao do Algoritmo Guloso Reativo: 57.666313 Segundos 
+
+========================================================== instancias/M-n101-k10.txt (7) Instancias : 3000 ===============================================================================================
+Custo Total: 2051.691406
+Solucao Otimo: 820
+Valor acima da Solucao Otima: 1231.691406 que tem porcentagem: 150.206268% 
+Tempo de duracao do Algoritmo Guloso Reativo: 6.783085 Segundos 
+
+========================================================== instancias/M-n151-k12.txt (8) Instancias : 3000 ===============================================================================================
+Custo Total: 2708.056396
+Solucao Otimo: 1053
+Valor acima da Solucao Otima: 1655.056396 que tem porcentagem: 157.175354% 
+Tempo de duracao do Algoritmo Guloso Reativo: 16.688903 Segundos 
+
+========================================================== instancias/X-n101-k25.txt (9) Instancias : 3000 ===============================================================================================
+Custo Total: 40533.890625
+Solucao Otimo: 27591
+Valor acima da Solucao Otima: 12942.890625 que tem porcentagem: 46.909828% 
+Tempo de duracao do Algoritmo Guloso Reativo: 6.569973 Segundos 
+
+========================================================== instancias/X-n280-k17.txt (10) Instancias : 3000 ===============================================================================================
+Custo Total: 83988.484375
+Solucao Otimo: 33503
+Valor acima da Solucao Otima: 50485.484375 que tem porcentagem: 150.689453% 
+Tempo de duracao do Algoritmo Guloso Reativo: 76.270296 Segundos 
+

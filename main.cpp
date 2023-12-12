@@ -50,6 +50,7 @@ int renameInstance(string entrada)
     {
         return 10;
     }
+    return 0;
 }
 
 int main(int argc, char *argv[])
@@ -96,7 +97,7 @@ int main(int argc, char *argv[])
     auto end_time = chrono::high_resolution_clock::now();
 
     // calculo
-    auto duration = chrono::duration_cast<chrono::milliseconds>(end_time - start_time).count();
+    auto duration = chrono::duration_cast<chrono::duration<double>>(end_time - start_time).count();
 
     double durationInSeconds = static_cast<double>(duration); // Convertendo de milissegundos para segundos
 
@@ -167,7 +168,7 @@ int main(int argc, char *argv[])
     // ARQUIVO DE SAIDA
     arquivo_saida << result << std::endl;
     arquivo_saida.close();
-    cout << "String escrita no arquivo com sucesso. (" << instance << ")" << endl;
+    cout << "String escrita no arquivo com sucesso. (" << instance << ") " << alfa << endl;
 
     return 0;
 }
